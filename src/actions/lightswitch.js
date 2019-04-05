@@ -1,5 +1,5 @@
 export const toggle = () => {
     return {
-        type: 'TOGGLE_LIGHTSTCH'
+        type: 'TOGGLE_LIGHTSWITCH'
     }
 }
